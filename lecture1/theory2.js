@@ -279,6 +279,7 @@ What is mongsh command ?
   ------------------------
     > sudo systemctl start mongod
     > mongosh
+    > exit
     > sudo systemctl stop mongod
    
 */ 
